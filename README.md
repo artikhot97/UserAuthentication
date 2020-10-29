@@ -35,7 +35,9 @@ Response
 - Search Data: localhost:9001/restapi/search_data_by_condition/?last_name=khot
 
 
-- Adding Some screen shots for reference 
+- Adding Some screen shots for reference
+
+
 
 
 
