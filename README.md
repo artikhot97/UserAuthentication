@@ -9,8 +9,7 @@ Steps :
 - Lastly made pagination
 
 
-For Registion Use :
-localhost:9000/restapis/registration/
+-For Registion Use : localhost:9000/restapis/registration/
 Request :
 {
   "username":"artikhot",
@@ -21,8 +20,7 @@ Request :
   "organiztion_name":"ABC"
 }
 
-localhost:9001/restapi/login_user/  with Token 
-
+- For Login User : localhost:9001/restapi/login_user/  with Token 
 Response 
   {
     "message": "Login Successful",
@@ -30,16 +28,11 @@ Response
 }
 
 
-Get List of All User :
-localhost:9001/restapi/get_list/
+- Get List of All User : localhost:9001/restapi/get_list/
 
+- Pagination Details: localhost:9001/restapi/pagination_list/?page=1
 
-
-Pagination Details:
-localhost:9001/restapi/pagination_list/?page=1
-
-Search Data:
-localhost:9001/restapi/search_data_by_condition/?last_name=khot
+- Search Data: localhost:9001/restapi/search_data_by_condition/?last_name=khot
 
 
 
