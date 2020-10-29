@@ -9,7 +9,7 @@ Steps :
 - Lastly made pagination
 
 
--For Registion Use : localhost:9000/restapis/registration/
+- For Registion Use : localhost:9000/restapis/registration/
 Request :
 {
   "username":"artikhot",
